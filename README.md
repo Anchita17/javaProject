@@ -1,3 +1,3 @@
 # javaProject
-A post password breach analyzer system
+A post password breach analyzer system:
 This project uses hashing algorithms like SHA 256 to convert the passwords of the user to a hash value which is stored in the database of the server and through graph if one password is breached,it shows the users whose passwords are under the blast radius. Thus,in this way we can save the data of the remaining users from getting breached with also depicting how strong or a weak password one has and would give a try as many as times until the user enters a strong password. In this way this project improves the security system of any company where password breach can result in severe data loss.
